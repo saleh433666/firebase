@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312435904737",
+    "project_id": "firstcourse-733ed",
+    "storage_bucket": "firstcourse-733ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312435904737:android:c370e19cb0f04b4e8c67a0",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGk039AlzkZqqJMHJdVIea-6zek3glaiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
